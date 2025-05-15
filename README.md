@@ -1,4 +1,4 @@
-# Campus-Placement-ANAKYSIS
+# Campus-Placement-ANALYSIS
 Predicting Campus Placement Outcomes Using Machine Learning
 
 Campus placements play a vital role in shaping students' career paths, acting as a bridge between academic learning and professional opportunities. A student's ability to secure employment depends on multiple factors, including academic achievements, technical skills, soft skills, and hands-on experience. As job market competition grows, both students and educational institutions are increasingly turning to data-driven strategies to boost placement success rates.
